@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import imutils
 
-vid = cv2.VideoCapture(1)
+vid = cv2.VideoCapture(0)
 
 while(True):
 
